@@ -8,6 +8,7 @@ Usage
 
 Example:
 
+```
 <!-- Countdown timer for a product -->
 <div class="product-item">
 	<div class="countdown">
@@ -97,3 +98,4 @@ Example:
 		}
 	);
 </script>
+```
